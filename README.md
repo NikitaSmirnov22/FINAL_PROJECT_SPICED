@@ -1,6 +1,6 @@
 # Final project at SPICED Academy!
 
-![app architecture](FINAL_PROJECT_SPICED/iHelper_streamlit/101.png)
+![image](FINAL_PROJECT_SPICED/iHelper_streamlit/101.png)
 
 
 
