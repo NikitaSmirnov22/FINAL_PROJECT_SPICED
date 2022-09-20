@@ -3,12 +3,12 @@ Here is my final project for data science bootcamp at SPICED Academy, Berlin. Th
 
 Dataset: International Committee of the Red Cross.
 
-Tech stack for web-app version: 
+#Tech stack for web-app version: 
 - GPT-3
 - Streamlit
 - Numpy
 
-Tech stack for SMS texting version: 
+#Tech stack for SMS texting version: 
 - Twilio
 - Render
 - Flask
