@@ -1,9 +1,7 @@
 # Final project at SPICED Academy!
 
 ![image](data/main_page.png)
-
-
-
+<img src="data/main_page.png" alt="drawing" width="200"/>
 
 
 
