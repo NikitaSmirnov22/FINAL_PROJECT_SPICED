@@ -1,1 +1,1 @@
-<img src="FINAL_PROJECT_SPICED/iHelper_streamlit/200.png" alt="image"/>
+<img src="iHelper_streamlit/200.png" alt="image"/>
