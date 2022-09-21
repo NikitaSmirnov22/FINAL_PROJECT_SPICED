@@ -1,1 +1,1 @@
-<img src="data/101.png" alt="image"/>
+<img src="data/chat_page.png" alt="drawing" width="400"/>
